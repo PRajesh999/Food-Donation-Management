@@ -22,7 +22,5 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  },
-  "type": "commonjs",
-  "license": "ISC"
+  }
 }
