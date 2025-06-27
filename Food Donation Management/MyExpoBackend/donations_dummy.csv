@@ -1,0 +1,8 @@
+donorName,foodName,email,phoneNo,foodType,foodImage,quantity,locationName,createdDate,expiryDate,coordinates.latitude,coordinates.longitude,status
+Alice Johnson,Rice,alice@example.com,1234567890,Rice,,10,Central Park,"2024-06-25T10:00:00Z","2024-06-27T10:00:00Z",40.785091,-73.968285,available
+Bob Smith,Veg Curry,bob@example.com,2345678901,Veg Curry,,5,Times Square,"2024-06-25T12:00:00Z","2024-06-27T12:00:00Z",40.758896,-73.985130,available
+Carol Lee,Non Veg Curry,carol@example.com,3456789012,Non Veg Curry,,8,Brooklyn Bridge,"2024-06-25T14:00:00Z","2024-06-27T14:00:00Z",40.706086,-73.996864,available
+David Kim,Milk,david@example.com,4567890123,Milk,,12,Union Square,"2024-06-25T16:00:00Z","2024-06-27T16:00:00Z",40.735863,-73.991084,available
+Eva Green,Juice,eva@example.com,5678901234,Juice / Soft Drinks,,6,Bryant Park,"2024-06-25T18:00:00Z","2024-06-27T18:00:00Z",40.753597,-73.983233,available
+Frank White,Sweets,frank@example.com,6789012345,Sweets,,15,Grand Central,"2024-06-25T20:00:00Z","2024-06-27T20:00:00Z",40.752726,-73.977229,available
+Grace Hall,Rice,grace@example.com,7890123456,Rice,,7,Columbus Circle,"2024-06-25T22:00:00Z","2024-06-27T22:00:00Z",40.768044,-73.981893,available 
